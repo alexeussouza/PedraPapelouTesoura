@@ -1,1 +1,1 @@
-Projeto feito no Android Studo usando a linguagem Java. Jogo pedra, papel e teosura.
+O  Jogo pedra, papel e teosura foi feito no Android Studio com jdk 33 e usando a linguagem Java.
